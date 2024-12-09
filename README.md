@@ -10,6 +10,8 @@
 
 Welcome to the **BYOL (Bootstrap Your Own Latent)** repository! This project provides a comprehensive, from-scratch implementation of BYOL, a revolutionary self-supervised learning algorithm. Whether you're a researcher, developer, or enthusiast, this repository offers valuable insights into state-of-the-art unsupervised feature learning.
 
+If you find this project useful, please star this repository! ⭐
+
 ---
 
 ## 🚀 Key Highlights
