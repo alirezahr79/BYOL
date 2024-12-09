@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/github/stars/deepmancer/byol-pytorch?style=for-the-badge" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/deepmancer/byol-pytorch?style=for-the-badge" alt="GitHub Forks">
 </p>
 
 ---
