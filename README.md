@@ -77,12 +77,6 @@ Clone the repository and install the required dependencies
 
 ---
 
-## 🧾 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📚 Citations
 
 ```bibtex
@@ -98,3 +92,10 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
   year = {2020}
 }
 ```
+
+---
+
+## 🧾 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
