@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/github/stars/deepmancer/byol-pytorch?style=for-the-badge" alt="GitHub Stars">
 </p>
 
----
-
 Welcome to the **BYOL (Bootstrap Your Own Latent)** repository! This project provides a comprehensive, from-scratch implementation of BYOL, a revolutionary self-supervised learning algorithm. Whether you're a researcher, developer, or enthusiast, this repository offers valuable insights into state-of-the-art unsupervised feature learning.
 
 ---
