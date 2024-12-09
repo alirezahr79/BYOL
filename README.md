@@ -67,13 +67,11 @@ The **STL10 Dataset** is designed for unsupervised and self-supervised learning 
 
 ## 🔧 Getting Started
 
-### Prerequisites
+**Prerequisites**
 - **Python 3.6+**
 - **PyTorch**
 - **Torchvision**
 - **Jupyter Notebook** (for interactive experiments)
-
-### Installation
 
 Clone the repository and install the required dependencies
 
